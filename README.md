@@ -1,7 +1,6 @@
 ### Olá eu sou o Wagner Vitor 🍃
-### Hello, my name is Wagner Vitor 🍃
 
-Atualmente cursando análise e desenvolvimento de sistemas e estudando programação.
+Atualmente cursando análise e desenvolvimento de sistemas e estudando programação. A cada dia buscando novos conhecimentos na área da tecnologia.
 
 ### Redes Sociais
 
