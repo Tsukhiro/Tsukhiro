@@ -1,6 +1,8 @@
 ### Olá, eu sou o Wagner 🍃
 
-Atualmente cursando análise e desenvolvimento de sistemas e estudando programação. A cada dia buscando novos conhecimentos na área da tecnologia. 😁
+ ⚈ Atualmente cursando análise e desenvolvimento de sistemas e estudando programação. 
+ 
+ ⚈ A cada dia buscando novos conhecimentos na área da tecnologia. 😁
 
 ### Redes Sociais ✔️
 
