@@ -1,16 +1,17 @@
-### Hi there 👋
+### Olá eu sou o Wagner Vitor 🍃
+### Hello, my name is Wagner Vitor 🍃
 
-<!--
-**Tsukhiro/Tsukhiro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Atualmente cursando análise e desenvolvimento de sistemas e estudando programação.
 
-Here are some ideas to get you started:
+### Redes Sociais
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-vitor-novais-65a5b5204/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wag_vitor/)
+
+### Skills
+
+[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
+[![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
+[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
+
+![Wagner Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsukhiro&show_icons=true&theme=dracula)
