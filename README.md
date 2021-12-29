@@ -23,7 +23,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-vitor-novais-65a5b5204/) </br> </br> 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wag_vitor/) </br> </br>
 <a href="https://pt.stackoverflow.com/users/271357/tsukhiro?tab=profile" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="git" /> </a> </br> </br>
-<a href="LINK AQUI" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="git" /> </a>
+<a href="https://twitter.com/Wagner_html?t=mqhUtiUwbulARkmTi1JADw&s=09" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="git" /> </a>
 
 </br>
 
