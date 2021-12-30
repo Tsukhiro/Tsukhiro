@@ -44,7 +44,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 </br>
 
-<h2> My Github Stats </h2>
+<h2> My Github Stats <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"></h2>
 </br>
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
   
