@@ -1,19 +1,14 @@
-<h1 align="center"> Hi <𝚍𝚎𝚟𝚜/>, I'm Wagner </h1>
-
-
-<h3 align="center">A passionate Software Developer  from Brazil <img src="https://icons.iconarchive.com/icons/wikipedia/flags/1024/BR-Brazil-Flag-icon.png" width="25 style="vertical-align: bottom"/>   </h3>
+<h1 align="center"> Hi <𝚍𝚎𝚟𝚜/> </h1>
 
 
 <div align="center">
-You have finally discovered my Github profile, I was waiting for you! <br>
-Feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
+<i>Olá, meu nome é Wagner, Tenho 24 anos e moro na cidade de SP.  <br>
+Sou apaixonado por tecnologia e busco cada dia mais aprimorar meu conhecimento e técnicas.</i><br>
 
 <i>Happy Coding!</i> 🚀
 </br>
 </div>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
+</br>
 <h2> Connect with me  </h2>
 <div>
 
@@ -25,7 +20,7 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 
 </br>
 
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
 
 <h2> Tools and Technologies </h2>
 
@@ -37,11 +32,6 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
 <a href="https://github.com/Tsukhiro" target="_blank"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="git" /> </a>
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-
-</br>
-
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-
 </br>
 
 <h2> My Github Stats </h2>
@@ -50,3 +40,4 @@ Feel free to clone/fork projects, raise issues and submit PRs if you think somet
   
 ![Wagner Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsukhiro&show_icons=true&theme=dracula)
 
+<i> "A tecnologia move o mundo." </i> 🧠 Steve Jobs
