@@ -38,4 +38,4 @@ Sou apaixonado por tecnologia e busco cada dia mais aprimorar meu conhecimento e
   
 ![Wagner Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsukhiro&show_icons=true&theme=dracula)
 
-<i> "A tecnologia move o mundo." </i> 🧠 Steve Jobs
+<i> "technology moves the world" </i> 🧠 Steve Jobs
