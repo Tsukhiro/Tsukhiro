@@ -2,14 +2,14 @@
 
 
 <div align="center">
-<i>Olá, meu nome é Wagner, Tenho 24 anos e moro na cidade de SP.  <br>
+<i>Olá, meu nome é Wagner, Tenho 24 anos e moro na capital de São Paulo.  <br>
 Sou apaixonado por tecnologia e busco cada dia mais aprimorar meu conhecimento e técnicas.</i><br>
 
 <i>Happy Coding!</i> 🚀
 </br>
 </div>
 </br>
-<h2> Connect with me  </h2>
+<h2> Connect with me 🤝 </h2>
 <div>
 
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wagner-vitor-novais)
@@ -20,14 +20,14 @@ Sou apaixonado por tecnologia e busco cada dia mais aprimorar meu conhecimento e
 
 
 
-<h2> Tools and Technologies </h2>
+<h2> Tools and Technologies 💻</h2>
 
-![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,styledcomponents)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,styledcomponents,vscode)
 
 
 </br>
 
-<h2> My Github Stats </h2>
+<h2> My Github Stats 💜 </h2>
 </br>
 
   
