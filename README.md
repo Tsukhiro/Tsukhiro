@@ -12,10 +12,9 @@ Sou apaixonado por tecnologia e busco cada dia mais aprimorar meu conhecimento e
 <h2> Connect with me  </h2>
 <div>
 
-
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagner-vitor-novais-65a5b5204/)
-<a href="https://pt.stackoverflow.com/users/271357/tsukhiro?tab=profile" target="_blank"> <img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="git" /> </a>
-<a href="https://twitter.com/Wagner_html?t=mqhUtiUwbulARkmTi1JADw&s=09" target="_blank"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="git" /> </a>
+[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wagner-vitor-novais)
+[![My Skills](https://skillicons.dev/icons?i=stackoverflow)](https://pt.stackoverflow.com/users/271357/tsukhiro?tab=profile)
+[![My Skills](https://skillicons.dev/icons?i=twitter)](https://twitter.com/Wagner_html?t=mqhUtiUwbulARkmTi1JADw&s=09)
 
 </br>
 
@@ -23,13 +22,7 @@ Sou apaixonado por tecnologia e busco cada dia mais aprimorar meu conhecimento e
 
 <h2> Tools and Technologies </h2>
 
-[![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)]()
-[![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)]()
-[![JS](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)]()
-<a href="https://git-scm.com/" target="_blank"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="git" /> </a>
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Bootstrap](	https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,styledcomponents)
 
 
 </br>
