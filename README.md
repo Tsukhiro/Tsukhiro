@@ -24,13 +24,8 @@ Sou apaixonado por tecnologia e busco cada dia mais aprimorar meu conhecimento e
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,styledcomponents,vscode)
 
-
 </br>
 
-<h2> My Github Stats 💜 </h2>
-</br>
-
-  
-![Wagner Vitor GitHub stats](https://github-readme-stats.vercel.app/api?username=Tsukhiro&show_icons=true&theme=dracula)
+<h2></h2>
 
 <i> "technology moves the world" </i> 🧠 Steve Jobs
