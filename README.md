@@ -1,9 +1,9 @@
-<h1 align="center"> Welcome 😁 </h1>
+<h1 align="center"> Olá! Seja bem-vindo(a) ao meu perfil. 😁 </h1>
 
 
 <div align="center">
-Olá, eu me chamo Wagner, Tenho 25 anos e sou desenvolvedor front-end. <br>
-Sou formado em análise e desenvolvimento de sistemas e estou me especializando em JavaScript e React-JS
+Meu nome é Wagner, Tenho 25 anos e sou desenvolvedor front-end. <br>
+Sou formado em análise e desenvolvimento de sistemas e apaixonado por código e tecnologia.
 <br>
 Sinta-se a vontade para se conectar comigo através do Linkedin.
 <br><br>
@@ -13,7 +13,7 @@ Sinta-se a vontade para se conectar comigo através do Linkedin.
 </br>
 </div>
 
-<h2> Tools and Technologies 💻</h2>
+<h2> Skills 💻</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,github,vscode)
 
