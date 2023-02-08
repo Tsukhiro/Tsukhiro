@@ -5,7 +5,7 @@
 Meu nome é Wagner, Tenho 25 anos e sou desenvolvedor front-end. <br>
 Sou formado em análise e desenvolvimento de sistemas e apaixonado por código e tecnologia.
 <br>
-Sinta-se a vontade para se conectar comigo através do Linkedin.
+Sinta-se a vontade para se conectar comigo.
 <br><br>
  
 [![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wagner-vitor-novais)
