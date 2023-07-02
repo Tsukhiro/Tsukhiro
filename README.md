@@ -7,13 +7,10 @@ Apaixonado por código e tecnologia.
 <br>
 Sinta-se a vontade para se conectar comigo.
 <br><br>
- 
-[![My Skills](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/wagner-vitor-novais)
-  
-</br>
 </div>
 
+<div align="center">
 <h2> Skills 💻</h2>
 
 ![My Skills](https://skillicons.dev/icons?i=js,html,css,react,git,vscode,figma)
-
+</div>
