@@ -12,5 +12,10 @@ Sinta-se a vontade para se conectar comigo.
 <div align="center">
 <h2> Skills 💻</h2>
 
-![My Skills](https://skillicons.dev/icons?i=js,jquery,php,mysql,html,css,sass,react,git,vscode,figma)
+![My Skills](https://skillicons.dev/icons?i=js,jquery,ts,php,mysql,html,css,sass,react,git)
+</div>
+<div align="center">
+<h2> Tools 🔨</h2>
+
+![My Skills](https://skillicons.dev/icons?i=vscode,sublime,figma,notion)
 </div>
