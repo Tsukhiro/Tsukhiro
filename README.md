@@ -2,7 +2,7 @@
 
 
 <div align="center">
-Meu nome é Wagner, Tenho 26 anos e sou desenvolvedor full-stack. <br>
+Meu nome é Wagner, Tenho 27 anos e atualmente trabalho como desenvolvedor full-stack. <br>
 Apaixonado por código e tecnologia.
 <br>
 Sinta-se a vontade para se conectar comigo.
